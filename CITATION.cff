@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived data, please cite the archived release and the paper."
+type: software
+title: "Missing-data timing and station rainfall trends in Nepal: code and derived data"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Luitel
+    given-names: Somnath
+    orcid: "https://orcid.org/0009-0009-8669-4245"
+    affiliation: "Western Kentucky University"
+    email: "somnath.luitel416@topper.wku.edu"
+  - family-names: Biswakarma
+    given-names: Kamal
+    affiliation: "Western Kentucky University"
+  - family-names: Thapa
+    given-names: Suraj
+    affiliation: "Oklahoma State University"
+  - family-names: Amgain
+    given-names: Arbin
+    affiliation: "Tennessee State University"
+  - family-names: Rayamajhi
+    given-names: Dilip
+    affiliation: "Pulchowk Campus, Institute of Engineering, Tribhuvan University"
+  - family-names: Bhattarai
+    given-names: Mission
+    affiliation: "Pulchowk Campus, Institute of Engineering, Tribhuvan University"
+  - family-names: Pokharel
+    given-names: Yogaraj
+    affiliation: "Infrastructure Development Office, Parsa, Ministry of Physical Infrastructure Development, Madhesh Province"
+keywords:
+  - missing data
+  - precipitation trends
+  - rain gauges
+  - gap timing
+  - Nepal

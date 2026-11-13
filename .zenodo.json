@@ -1,0 +1,17 @@
+{
+  "title": "Missing-data timing and station rainfall trends in Nepal: code and derived data",
+  "upload_type": "software",
+  "description": "Analysis code and derived data for the manuscript 'Missing-Data Timing Alters Station Rainfall Trend Estimates in Nepal' (Earth and Space Science). Code developed by Somnath Luitel. The repository contains the Python steps that produce every number, table and figure, annual precipitation indices, eligible-year flags, gap masks, station trends, paired treatment shifts and the results of the gauge and ERA5 masking experiments. Daily station records of the Department of Hydrology and Meteorology, Nepal, are not redistributed.",
+  "creators": [
+    {"name": "Luitel, Somnath", "affiliation": "Western Kentucky University", "orcid": "0009-0009-8669-4245"},
+    {"name": "Biswakarma, Kamal", "affiliation": "Western Kentucky University"},
+    {"name": "Thapa, Suraj", "affiliation": "Oklahoma State University"},
+    {"name": "Amgain, Arbin", "affiliation": "Tennessee State University"},
+    {"name": "Rayamajhi, Dilip", "affiliation": "Pulchowk Campus, Institute of Engineering, Tribhuvan University"},
+    {"name": "Bhattarai, Mission", "affiliation": "Pulchowk Campus, Institute of Engineering, Tribhuvan University"},
+    {"name": "Pokharel, Yogaraj", "affiliation": "Infrastructure Development Office, Parsa, Ministry of Physical Infrastructure Development, Madhesh Province"}
+  ],
+  "license": "MIT",
+  "keywords": ["missing data", "precipitation trends", "rain gauges", "gap timing", "Nepal", "ERA5"],
+  "access_right": "open"
+}

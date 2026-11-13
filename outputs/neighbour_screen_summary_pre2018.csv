@@ -1,0 +1,9 @@
+quantity,value
+station-months screened,83264
+flagged station-months,601
+stations with at least one flag,178
+stations with at least 3 flags,82
+stations with at least 6 flags,28
+monsoon months with 0 mm and prediction > 100 mm,0
+flagged low (total < prediction),576
+flagged high (total > prediction),25

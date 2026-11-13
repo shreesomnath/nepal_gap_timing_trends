@@ -1,0 +1,13 @@
+scenario,index,share_degraded_years_omitted
+random_timing,PRCPTOT,0.08950184429058919
+random_timing,R95pTOT,0.07310696680481875
+random_timing,Rx1day,0.029713253785684107
+random_timing,Rx5day,0.04476994862446664
+real_timing,PRCPTOT,0.08658718732248144
+real_timing,R95pTOT,0.07141378185229261
+real_timing,Rx1day,0.030660540859136914
+real_timing,Rx5day,0.04476804788916038
+station_timing,PRCPTOT,0.09205626677220069
+station_timing,R95pTOT,0.07691189759846345
+station_timing,Rx1day,0.03190102611700374
+station_timing,Rx5day,0.04597054122445259

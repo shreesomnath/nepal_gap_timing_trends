@@ -1,0 +1,21 @@
+# Restricted DHM data: never commit
+melted_ppt_from_1980.csv
+Precipitation_*.csv
+*.xlsx
+outputs/daily_qc.npz
+outputs/qc_flags.csv
+outputs/neighbour_screen_pre2018.csv
+
+# Large or re-derivable files
+outputs/era5_station_daily.npz
+era5/
+era5_arco/
+gis/
+*.nc
+
+# Python and system
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
